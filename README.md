@@ -1,4 +1,6 @@
-<!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
+> [!NOTE]  
+> This repository is archived and will no longer be updated. I had a great time learning Gatsby and actually deploying this site as my first project, but it is beyond time to move on. In time eaj.no will be replaced with another site.
+
 <p align="center">
   <a href="https://eaj.no">
     <img alt="Logo" src="src/images/icon.png" width="70" />
